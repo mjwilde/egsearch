@@ -1,0 +1,35 @@
+midway492
+On Midway : midway492
+Checking for the input files 
+total 160K
+drwxrwxr-x 3 yadunand yadunand  32K Oct  7 12:19 .
+drwxrwxr-x 3 yadunand yadunand  32K Oct  7 12:19 ..
+-rw-rw-r-- 1 yadunand yadunand    0 Oct  7 12:19 3
+lrwxrwxrwx 1 yadunand yadunand   75 Oct  7 12:19 Consortium_expr_full_pheno_no_affx.csv -> /scratch/midway/yadunand/swiftwork/./Consortium_expr_full_pheno_no_affx.csv
+lrwxrwxrwx 1 yadunand yadunand   62 Oct  7 12:19 HG-U133A_2.na33.annot.csv -> /scratch/midway/yadunand/swiftwork/./HG-U133A_2.na33.annot.csv
+-rw-rw-r-- 1 yadunand yadunand 6.0K Oct  7 12:19 _swiftwrap.staging
+-rw-rw-r-- 1 yadunand yadunand 1.6K Oct  7 12:19 cdm.pl
+-rw-rw-r-- 1 yadunand yadunand 5.9K Oct  7 12:19 cdm_lib.sh
+-rw-rw-r-- 1 yadunand yadunand  14K Oct  7 12:19 exsearch.py
+-rw-rw-r-- 1 yadunand yadunand   52 Oct  7 12:19 midway.cdm
+drwxrwxr-x 2 yadunand yadunand  32K Oct  7 12:19 out
+-rw-rw-r-- 1 yadunand yadunand  22K Oct  7 12:19 stderr.txt
+-rw-rw-r-- 1 yadunand yadunand 3.1K Oct  7 12:19 wrapper.log
+-rw-rw-r-- 1 yadunand yadunand 2.2K Oct  7 12:19 wrapper.sh
+Python script to execute : ./exsearch.py
+Executing.... python ./exsearch.py 100000 0 ./out/s.0.csv
+Loading HG-U133A_2.na33.annot.csv...
+Loading Consortium_expr_full_pheno_no_affx.csv...
+There are 20 features.
+
+Taking 2 at a time.
+Total combinations	190
+Taking at a time	2
+Number of slices	100000
+Slice number		0
+Iterations per group	1
+First iteration		0
+Last iteration		1
+outFileName		./out/s.0.csv
+
+0

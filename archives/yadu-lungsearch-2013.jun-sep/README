@@ -1,0 +1,133 @@
+Egsearch
+========
+Sam Volchenboum's Exhaustive Gene Search scripts
+
+Getting started
+---------------
+
+Prerequisites:
+~~~~~~~~~~~~~~
+1. Resources for requesting accounts for Beagle, Midway and UC3: +
+http://wiki.ci.uchicago.edu/Beagle/HowToStart +
+http://docs.rcc.uchicago.edu/access.html +
+https://uc3.uchicago.edu/ +
+
+2.  Setup your ssh-keys on the compute resources you would
+be using so that from Midway (swift.rcc.uchicago.edu), you can ssh to those
+machines without being prompted for a password. Here's an excellent resource
+for setting up ssh-keys for passwordless access: +
+https://help.ubuntu.com/community/SSH/OpenSSH/Keys
+
+3.  Access to the private repository on Bitbucket
+Request access to the swift-apps repository on Bitbucket here:
+https://bitbucket.org/yadunand/swift-apps
+
+Ssh to Midway ( swift.rcc.uchicago.edu ) and download the sources from
+bitbucket(needs access permission).
+-----
+ssh <your.username>@swift.rcc.uchicago.edu
+git clone https://yadunand@bitbucket.org/yadunand/swift-apps.git
+cd swift-apps/lungsearch
+-----
+
+Fill in your username for the different compute resources in the setup.sh script.
+Currently, we have three compute resources supported: Beagle, Midway and UC3. If
+you do not have an account on any of these you could leave the username empty,
+and fill it in later.
+-----
+Example:
+BEAGLE_USERNAME="linustor"
+MIDWAY_USERNAME="linux"
+UC3_USERNAME=""
+
+# Execute it:
+./setup.sh
+-----
+
+Now, the config files would be tailored to your accounts and some of the larger files
+would have been moved to remote shared filesystems for getting your jobs run faster.
+Try running some jobs by executing the following scripts:
+-----
+./midway_run.sh
+./beagle_remote.sh
+./uc3_remote.sh
+-----
+
+Executing on sites
+------------------
+
+Midway
+~~~~~~
+On midway we take advantage of two pools of Sandybridge and Westmere cores to run the app.
+Further, we can also initiate runs remotely on UC3 and Beagle from Midway.
+
+-----
+# Fetch fresh sources
+git clone https://yadunand@bitbucket.org/yadunand/swift-apps.git
+cd swift-apps/lungsearch
+
+# Make sure the location of egsearch.py in tc.data is accessible
+# Add extra parameters in the following scripts to change run parameters such as
+# -firstSlice=1000 -lastSlice=5000 -numSlices=50000
+
+# Run on Midway local cluster Sandybridge + Westmere
+./midway_run.sh
+
+# Run on Beagle remotely from midway
+./beagle_remote.sh
+
+# Run on UC3 cluster remotely from midway
+./uc3_remote.sh
+-----
+TIP: When running jobs on Midway and UC3, expect congestion in the queue.
+
+TIP: Use "sinfo | grep idle | egrep 'sandy|west|bigmem|vot" to check for available
+nodes on Midway.
+
+
+Beagle
+~~~~~~
+To run locally on Beagle follow the steps below
+
+-----
+# Fetch fresh sources
+git clone https://yadunand@bitbucket.org/yadunand/swift-apps.git
+cd swift-apps/lungsearch
+
+#Make sure the location of egsearch.py in tc.data is accessible
+#Add extra parameters in the beagle_run.sh to change run parameters such as
+# -firstSlice=1000 -lastSlice=5000 -numSlices=50000
+
+#Run locally on beagle
+chmod a+x *sh
+./beagle_run.sh
+-----
+WARNING: On beagle you might see an HTTP error:403, when trying to clone the
+repository from bitbucket, in which case you could download from this link
+https://bitbucket.org/yadunand/swift-apps/get/master.tar.gz.
+
+Additional notes
+----------------
+
+To set output directory pass -dir=/your/output/directory to the swift commandline 
+in the bash scripts.
+
+Install and setup Enthought python and latest/stable scikit-learn. Download the Enthought python distribution from https://www.enthought.com/downloads/. You will get a file like canopy-1.0.0-rh5-64-academic.sh
+
+------
+#Change permissions and execute the installer script. The script will ask for an install location, by default it will pick ~/Canopy.
+chmod a+x canopy-1.0.0-rh5-64-academic.sh
+./canopy-1.0.0-rh5-64-academic.sh
+
+#Execute the following to complete a local installation
+~/Canopy/appdata/canopy-1.0.0.1160.rh5-x86_64/bin/python ~/Canopy/appdata/canopy-1.0.0.1160.rh5-x86_64/bin/venv -s ~/canopy_local
+
+#Execute the following to activate the python, this needs to be appended to the .bashrc file
+source ~/canopy_local/bin/activate
+
+#Download the scikit-learn package from https://pypi.python.org/pypi/scikit-learn/#downloads and untar. 
+#To install (latest/stable) scikit-learn run following:
+#Execute the following in the scikit-learn folder with the Enthought python active.
+python setup.py build_ext --inplace
+echo -e "\nexport PYTHONPATH=$PWD/scikit-learn\:\$PYTHONPATH" >> ~/.bashrc
+------

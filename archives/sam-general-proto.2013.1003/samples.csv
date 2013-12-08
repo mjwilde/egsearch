@@ -1,0 +1,6 @@
+,Alive/Dead,Age (days),Tumor location,Gene fusion status
+SampleName_1,Alive,100,Pelvis,Pos
+SampleName_2,Alive,150,Extremity,Pos
+SampleName_3,Alive,50,Extremity,Unk
+SampleName_4,Dead,300,Pelvis,Neg
+SampleName_5,Dead,250,Pelvis,Neg

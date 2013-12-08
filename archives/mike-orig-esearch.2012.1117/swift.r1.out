@@ -1,0 +1,810 @@
+Swift trunk swift-r6008 (swift modified locally) cog-r3497
+
+RunID: 20121116-2327-m2s8moh5
+Progress:  time: Fri, 16 Nov 2012 23:27:29 +0000
+Progress:  time: Fri, 16 Nov 2012 23:27:30 +0000  Initializing:4
+Progress:  time: Fri, 16 Nov 2012 23:27:31 +0000  Initializing:1  Finished in previous run:1024
+Progress:  time: Fri, 16 Nov 2012 23:27:33 +0000  Initializing:1  Selecting site:12  Finished in previous run:2036
+Progress:  time: Fri, 16 Nov 2012 23:27:34 +0000  Selecting site:916  Submitting:85  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:35 +0000  Selecting site:623  Stage in:1  Submitted:400  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:36 +0000  Selecting site:623  Stage in:1  Submitted:340  Active:60  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:37 +0000  Selecting site:623  Stage in:1  Submitted:316  Active:84  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:39 +0000  Selecting site:623  Stage in:1  Submitted:292  Active:108  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:40 +0000  Selecting site:623  Stage in:1  Submitted:268  Active:132  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:41 +0000  Selecting site:623  Stage in:6  Submitted:233  Active:162  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:42 +0000  Selecting site:623  Stage in:5  Submitted:221  Active:175  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:44 +0000  Selecting site:623  Stage in:1  Submitted:208  Active:192  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:45 +0000  Selecting site:623  Stage in:1  Submitted:196  Active:204  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:46 +0000  Selecting site:623  Stage in:1  Submitted:172  Active:228  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:27:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:28:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:28:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:29:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:29:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:30:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:30:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:31:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:31:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:32:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:32:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:33:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:33:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:34:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:34:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:35:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:35:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:36:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:36:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:37:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:37:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:38:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:38:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:39:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:39:48 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898
+Progress:  time: Fri, 16 Nov 2012 23:39:58 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1
+Progress:  time: Fri, 16 Nov 2012 23:39:59 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:5
+Progress:  time: Fri, 16 Nov 2012 23:40:00 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:8
+Progress:  time: Fri, 16 Nov 2012 23:40:01 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:10
+Progress:  time: Fri, 16 Nov 2012 23:40:02 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:12
+Progress:  time: Fri, 16 Nov 2012 23:40:05 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:17
+Progress:  time: Fri, 16 Nov 2012 23:40:06 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:24
+Progress:  time: Fri, 16 Nov 2012 23:40:07 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:32
+Progress:  time: Fri, 16 Nov 2012 23:40:08 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:35
+Progress:  time: Fri, 16 Nov 2012 23:40:09 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:41
+Progress:  time: Fri, 16 Nov 2012 23:40:11 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:50
+Progress:  time: Fri, 16 Nov 2012 23:40:12 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:56
+Progress:  time: Fri, 16 Nov 2012 23:40:13 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:62
+Progress:  time: Fri, 16 Nov 2012 23:40:14 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:74
+Progress:  time: Fri, 16 Nov 2012 23:40:15 +0000  Selecting site:623  Stage in:1  Submitted:161  Active:239  Finished in previous run:2898  Finished successfully:85
+Progress:  time: Fri, 16 Nov 2012 23:40:16 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:101
+Progress:  time: Fri, 16 Nov 2012 23:40:17 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:114
+Progress:  time: Fri, 16 Nov 2012 23:40:18 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:123
+Progress:  time: Fri, 16 Nov 2012 23:40:19 +0000  Selecting site:623  Submitted:161  Active:238  Stage out:2  Finished in previous run:2898  Finished successfully:132
+Progress:  time: Fri, 16 Nov 2012 23:40:20 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:143
+Progress:  time: Fri, 16 Nov 2012 23:40:21 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:156
+Progress:  time: Fri, 16 Nov 2012 23:40:23 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:169
+Progress:  time: Fri, 16 Nov 2012 23:40:24 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:183
+Progress:  time: Fri, 16 Nov 2012 23:40:25 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:189
+Progress:  time: Fri, 16 Nov 2012 23:40:26 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:196
+Progress:  time: Fri, 16 Nov 2012 23:40:27 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:202
+Progress:  time: Fri, 16 Nov 2012 23:40:28 +0000  Selecting site:623  Submitting:1  Submitted:160  Active:240  Finished in previous run:2898  Finished successfully:204
+Progress:  time: Fri, 16 Nov 2012 23:40:30 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:206
+Progress:  time: Fri, 16 Nov 2012 23:40:31 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:212
+Progress:  time: Fri, 16 Nov 2012 23:40:32 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:217
+Progress:  time: Fri, 16 Nov 2012 23:40:33 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:222
+Progress:  time: Fri, 16 Nov 2012 23:40:35 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:224
+Progress:  time: Fri, 16 Nov 2012 23:40:36 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:225
+Progress:  time: Fri, 16 Nov 2012 23:40:38 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:227
+Progress:  time: Fri, 16 Nov 2012 23:40:39 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:228
+Progress:  time: Fri, 16 Nov 2012 23:40:40 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:230
+Progress:  time: Fri, 16 Nov 2012 23:40:43 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:233
+Progress:  time: Fri, 16 Nov 2012 23:40:45 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:234
+Progress:  time: Fri, 16 Nov 2012 23:40:47 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:235
+Progress:  time: Fri, 16 Nov 2012 23:40:51 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:236
+Progress:  time: Fri, 16 Nov 2012 23:40:52 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:237
+Progress:  time: Fri, 16 Nov 2012 23:40:53 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:238
+Progress:  time: Fri, 16 Nov 2012 23:40:55 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:239
+Progress:  time: Fri, 16 Nov 2012 23:40:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:41:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:41:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:42:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:42:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:43:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:43:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:44:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:44:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:45:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:45:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:46:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:46:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:47:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:47:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:48:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:48:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:49:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:49:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:50:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:50:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:51:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:51:44 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:240
+Progress:  time: Fri, 16 Nov 2012 23:51:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:241
+Progress:  time: Fri, 16 Nov 2012 23:52:01 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:241
+Progress:  time: Fri, 16 Nov 2012 23:52:03 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:242
+Progress:  time: Fri, 16 Nov 2012 23:52:05 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:244
+Progress:  time: Fri, 16 Nov 2012 23:52:06 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:245
+Progress:  time: Fri, 16 Nov 2012 23:52:07 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:247
+Progress:  time: Fri, 16 Nov 2012 23:52:08 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:248
+Progress:  time: Fri, 16 Nov 2012 23:52:09 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:249
+Progress:  time: Fri, 16 Nov 2012 23:52:11 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:251
+Progress:  time: Fri, 16 Nov 2012 23:52:13 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:253
+Progress:  time: Fri, 16 Nov 2012 23:52:14 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:254
+Progress:  time: Fri, 16 Nov 2012 23:52:15 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:256
+Progress:  time: Fri, 16 Nov 2012 23:52:17 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:258
+Progress:  time: Fri, 16 Nov 2012 23:52:18 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:259
+Progress:  time: Fri, 16 Nov 2012 23:52:20 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:262
+Progress:  time: Fri, 16 Nov 2012 23:52:21 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:266
+Progress:  time: Fri, 16 Nov 2012 23:52:22 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:271
+Progress:  time: Fri, 16 Nov 2012 23:52:23 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:272
+Progress:  time: Fri, 16 Nov 2012 23:52:25 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:274
+Progress:  time: Fri, 16 Nov 2012 23:52:26 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:279
+Progress:  time: Fri, 16 Nov 2012 23:52:27 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:286
+Progress:  time: Fri, 16 Nov 2012 23:52:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:290
+Progress:  time: Fri, 16 Nov 2012 23:52:30 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:294
+Progress:  time: Fri, 16 Nov 2012 23:52:31 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:301
+Progress:  time: Fri, 16 Nov 2012 23:52:32 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:307
+Progress:  time: Fri, 16 Nov 2012 23:52:34 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:316
+Progress:  time: Fri, 16 Nov 2012 23:52:35 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:319
+Progress:  time: Fri, 16 Nov 2012 23:52:36 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:326
+Progress:  time: Fri, 16 Nov 2012 23:52:37 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:331
+Progress:  time: Fri, 16 Nov 2012 23:52:39 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:340
+Progress:  time: Fri, 16 Nov 2012 23:52:40 +0000  Selecting site:623  Submitting:1  Submitted:160  Active:240  Finished in previous run:2898  Finished successfully:348
+Progress:  time: Fri, 16 Nov 2012 23:52:41 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:355
+Progress:  time: Fri, 16 Nov 2012 23:52:42 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:361
+Progress:  time: Fri, 16 Nov 2012 23:52:43 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:365
+Progress:  time: Fri, 16 Nov 2012 23:52:44 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:370
+Progress:  time: Fri, 16 Nov 2012 23:52:45 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:381
+Progress:  time: Fri, 16 Nov 2012 23:52:47 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:385
+Progress:  time: Fri, 16 Nov 2012 23:52:48 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:392
+Progress:  time: Fri, 16 Nov 2012 23:52:49 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:401
+Progress:  time: Fri, 16 Nov 2012 23:52:50 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:408
+Progress:  time: Fri, 16 Nov 2012 23:52:51 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:416
+Progress:  time: Fri, 16 Nov 2012 23:52:53 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:420
+Progress:  time: Fri, 16 Nov 2012 23:52:54 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:425
+Progress:  time: Fri, 16 Nov 2012 23:52:55 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:430
+Progress:  time: Fri, 16 Nov 2012 23:52:56 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:432
+Progress:  time: Fri, 16 Nov 2012 23:52:57 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:438
+Progress:  time: Fri, 16 Nov 2012 23:52:58 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:441
+Progress:  time: Fri, 16 Nov 2012 23:53:00 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:445
+Progress:  time: Fri, 16 Nov 2012 23:53:01 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:447
+Progress:  time: Fri, 16 Nov 2012 23:53:02 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:452
+Progress:  time: Fri, 16 Nov 2012 23:53:04 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:457
+Progress:  time: Fri, 16 Nov 2012 23:53:05 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:458
+Progress:  time: Fri, 16 Nov 2012 23:53:07 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:461
+Progress:  time: Fri, 16 Nov 2012 23:53:08 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:464
+Progress:  time: Fri, 16 Nov 2012 23:53:09 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:466
+Progress:  time: Fri, 16 Nov 2012 23:53:10 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:470
+Progress:  time: Fri, 16 Nov 2012 23:53:13 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:472
+Progress:  time: Fri, 16 Nov 2012 23:53:15 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:474
+Progress:  time: Fri, 16 Nov 2012 23:53:17 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:476
+Progress:  time: Fri, 16 Nov 2012 23:53:22 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:477
+Progress:  time: Fri, 16 Nov 2012 23:53:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:479
+Progress:  time: Fri, 16 Nov 2012 23:53:33 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:479
+Progress:  time: Fri, 16 Nov 2012 23:53:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:54:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:54:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:55:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:55:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:56:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:56:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:57:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:57:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:58:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:58:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:59:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Fri, 16 Nov 2012 23:59:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:00:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:00:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:01:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:01:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:02:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:02:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:03:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:03:56 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:480
+Progress:  time: Sat, 17 Nov 2012 00:03:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:482
+Progress:  time: Sat, 17 Nov 2012 00:04:00 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:482
+Progress:  time: Sat, 17 Nov 2012 00:04:05 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:483
+Progress:  time: Sat, 17 Nov 2012 00:04:07 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:486
+Progress:  time: Sat, 17 Nov 2012 00:04:10 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:488
+Progress:  time: Sat, 17 Nov 2012 00:04:16 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:490
+Progress:  time: Sat, 17 Nov 2012 00:04:17 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:494
+Progress:  time: Sat, 17 Nov 2012 00:04:19 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:496
+Progress:  time: Sat, 17 Nov 2012 00:04:20 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:499
+Progress:  time: Sat, 17 Nov 2012 00:04:21 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:500
+Progress:  time: Sat, 17 Nov 2012 00:04:24 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:504
+Progress:  time: Sat, 17 Nov 2012 00:04:25 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:507
+Progress:  time: Sat, 17 Nov 2012 00:04:26 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:508
+Progress:  time: Sat, 17 Nov 2012 00:04:28 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:509
+Progress:  time: Sat, 17 Nov 2012 00:04:29 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:512
+Progress:  time: Sat, 17 Nov 2012 00:04:30 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:519
+Progress:  time: Sat, 17 Nov 2012 00:04:32 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:521
+Progress:  time: Sat, 17 Nov 2012 00:04:33 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:523
+Progress:  time: Sat, 17 Nov 2012 00:04:34 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:531
+Progress:  time: Sat, 17 Nov 2012 00:04:35 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:536
+Progress:  time: Sat, 17 Nov 2012 00:04:36 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:539
+Progress:  time: Sat, 17 Nov 2012 00:04:38 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:541
+Progress:  time: Sat, 17 Nov 2012 00:04:39 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:547
+Progress:  time: Sat, 17 Nov 2012 00:04:41 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:550
+Progress:  time: Sat, 17 Nov 2012 00:04:42 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:559
+Progress:  time: Sat, 17 Nov 2012 00:04:43 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:565
+Progress:  time: Sat, 17 Nov 2012 00:04:44 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:570
+Progress:  time: Sat, 17 Nov 2012 00:04:45 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:574
+Progress:  time: Sat, 17 Nov 2012 00:04:46 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:580
+Progress:  time: Sat, 17 Nov 2012 00:04:48 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:586
+Progress:  time: Sat, 17 Nov 2012 00:04:49 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:592
+Progress:  time: Sat, 17 Nov 2012 00:04:50 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:601
+Progress:  time: Sat, 17 Nov 2012 00:04:51 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:603
+Progress:  time: Sat, 17 Nov 2012 00:04:53 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:610
+Progress:  time: Sat, 17 Nov 2012 00:04:54 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:621
+Progress:  time: Sat, 17 Nov 2012 00:04:55 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:630
+Progress:  time: Sat, 17 Nov 2012 00:04:56 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:636
+Progress:  time: Sat, 17 Nov 2012 00:04:58 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:639
+Progress:  time: Sat, 17 Nov 2012 00:04:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:645
+Progress:  time: Sat, 17 Nov 2012 00:05:00 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:647
+Progress:  time: Sat, 17 Nov 2012 00:05:01 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:649
+Progress:  time: Sat, 17 Nov 2012 00:05:03 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:652
+Progress:  time: Sat, 17 Nov 2012 00:05:04 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:654
+Progress:  time: Sat, 17 Nov 2012 00:05:05 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:658
+Progress:  time: Sat, 17 Nov 2012 00:05:06 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:664
+Progress:  time: Sat, 17 Nov 2012 00:05:07 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:670
+Progress:  time: Sat, 17 Nov 2012 00:05:08 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:674
+Progress:  time: Sat, 17 Nov 2012 00:05:09 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:676
+Progress:  time: Sat, 17 Nov 2012 00:05:11 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:680
+Progress:  time: Sat, 17 Nov 2012 00:05:12 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:687
+Progress:  time: Sat, 17 Nov 2012 00:05:13 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:690
+Progress:  time: Sat, 17 Nov 2012 00:05:15 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:693
+Progress:  time: Sat, 17 Nov 2012 00:05:18 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:696
+Progress:  time: Sat, 17 Nov 2012 00:05:19 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:700
+Progress:  time: Sat, 17 Nov 2012 00:05:21 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:701
+Progress:  time: Sat, 17 Nov 2012 00:05:22 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:704
+Progress:  time: Sat, 17 Nov 2012 00:05:23 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:706
+Progress:  time: Sat, 17 Nov 2012 00:05:24 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:708
+Progress:  time: Sat, 17 Nov 2012 00:05:26 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:711
+Progress:  time: Sat, 17 Nov 2012 00:05:27 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:713
+Progress:  time: Sat, 17 Nov 2012 00:05:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:714
+Progress:  time: Sat, 17 Nov 2012 00:05:31 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:714
+Progress:  time: Sat, 17 Nov 2012 00:05:33 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:715
+Progress:  time: Sat, 17 Nov 2012 00:05:45 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:718
+Progress:  time: Sat, 17 Nov 2012 00:05:47 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:719
+Progress:  time: Sat, 17 Nov 2012 00:05:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:06:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:06:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:07:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:07:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:08:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:08:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:09:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:09:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:10:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:10:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:11:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:11:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:12:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:12:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:13:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:13:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:14:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:14:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:15:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:15:55 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:720
+Progress:  time: Sat, 17 Nov 2012 00:15:58 +0000  Selecting site:623  Submitted:162  Active:238  Stage out:1  Finished in previous run:2898  Finished successfully:721
+Progress:  time: Sat, 17 Nov 2012 00:16:00 +0000  Selecting site:623  Submitted:163  Active:237  Stage out:1  Finished in previous run:2898  Finished successfully:722
+Progress:  time: Sat, 17 Nov 2012 00:16:01 +0000  Selecting site:623  Submitted:164  Active:236  Stage out:1  Finished in previous run:2898  Finished successfully:723
+Progress:  time: Sat, 17 Nov 2012 00:16:03 +0000  Selecting site:623  Submitted:167  Active:233  Stage out:1  Finished in previous run:2898  Finished successfully:726
+Progress:  time: Sat, 17 Nov 2012 00:16:06 +0000  Selecting site:623  Submitted:169  Active:231  Stage out:1  Finished in previous run:2898  Finished successfully:728
+Progress:  time: Sat, 17 Nov 2012 00:16:08 +0000  Selecting site:623  Submitted:173  Active:227  Stage out:1  Finished in previous run:2898  Finished successfully:732
+Progress:  time: Sat, 17 Nov 2012 00:16:11 +0000  Selecting site:623  Submitted:174  Active:226  Stage out:1  Finished in previous run:2898  Finished successfully:733
+Progress:  time: Sat, 17 Nov 2012 00:16:13 +0000  Selecting site:623  Submitted:180  Active:220  Stage out:1  Finished in previous run:2898  Finished successfully:739
+Progress:  time: Sat, 17 Nov 2012 00:16:15 +0000  Selecting site:623  Submitted:184  Active:216  Stage out:1  Finished in previous run:2898  Finished successfully:743
+Progress:  time: Sat, 17 Nov 2012 00:16:19 +0000  Selecting site:623  Submitted:186  Active:214  Stage out:1  Finished in previous run:2898  Finished successfully:745
+Progress:  time: Sat, 17 Nov 2012 00:16:20 +0000  Selecting site:623  Submitted:191  Active:209  Stage out:1  Finished in previous run:2898  Finished successfully:750
+Progress:  time: Sat, 17 Nov 2012 00:16:22 +0000  Selecting site:623  Submitted:193  Active:207  Stage out:1  Finished in previous run:2898  Finished successfully:752
+Progress:  time: Sat, 17 Nov 2012 00:16:24 +0000  Selecting site:623  Submitted:197  Active:203  Stage out:1  Finished in previous run:2898  Finished successfully:756
+Progress:  time: Sat, 17 Nov 2012 00:16:26 +0000  Selecting site:623  Submitted:204  Active:196  Stage out:1  Finished in previous run:2898  Finished successfully:763
+Progress:  time: Sat, 17 Nov 2012 00:16:27 +0000  Selecting site:623  Submitted:209  Active:191  Stage out:1  Finished in previous run:2898  Finished successfully:768
+Progress:  time: Sat, 17 Nov 2012 00:16:28 +0000  Selecting site:623  Submitted:212  Active:188  Stage out:1  Finished in previous run:2898  Finished successfully:771
+Progress:  time: Sat, 17 Nov 2012 00:16:30 +0000  Selecting site:623  Submitted:216  Active:184  Stage out:1  Finished in previous run:2898  Finished successfully:775
+Progress:  time: Sat, 17 Nov 2012 00:16:31 +0000  Selecting site:623  Submitted:217  Active:183  Stage out:1  Finished in previous run:2898  Finished successfully:776
+Progress:  time: Sat, 17 Nov 2012 00:16:33 +0000  Selecting site:623  Submitted:221  Active:179  Stage out:1  Finished in previous run:2898  Finished successfully:780
+Progress:  time: Sat, 17 Nov 2012 00:16:34 +0000  Selecting site:623  Submitted:222  Active:178  Stage out:1  Finished in previous run:2898  Finished successfully:781
+Progress:  time: Sat, 17 Nov 2012 00:16:35 +0000  Selecting site:623  Submitted:223  Active:177  Stage out:1  Finished in previous run:2898  Finished successfully:782
+Progress:  time: Sat, 17 Nov 2012 00:16:36 +0000  Selecting site:623  Submitted:228  Active:172  Stage out:1  Finished in previous run:2898  Finished successfully:787
+Progress:  time: Sat, 17 Nov 2012 00:16:38 +0000  Selecting site:623  Submitted:235  Active:165  Stage out:1  Finished in previous run:2898  Finished successfully:794
+Progress:  time: Sat, 17 Nov 2012 00:16:40 +0000  Selecting site:623  Submitted:240  Active:160  Stage out:1  Finished in previous run:2898  Finished successfully:799
+Progress:  time: Sat, 17 Nov 2012 00:16:42 +0000  Selecting site:623  Submitted:246  Active:154  Stage out:1  Finished in previous run:2898  Finished successfully:805
+Progress:  time: Sat, 17 Nov 2012 00:16:44 +0000  Selecting site:623  Submitted:251  Active:149  Stage out:1  Finished in previous run:2898  Finished successfully:810
+Progress:  time: Sat, 17 Nov 2012 00:16:45 +0000  Selecting site:623  Submitted:254  Active:146  Stage out:1  Finished in previous run:2898  Finished successfully:813
+Progress:  time: Sat, 17 Nov 2012 00:16:46 +0000  Selecting site:623  Submitted:257  Active:143  Stage out:1  Finished in previous run:2898  Finished successfully:816
+Progress:  time: Sat, 17 Nov 2012 00:16:47 +0000  Selecting site:623  Submitted:262  Active:138  Stage out:1  Finished in previous run:2898  Finished successfully:821
+Progress:  time: Sat, 17 Nov 2012 00:16:48 +0000  Selecting site:623  Submitted:263  Active:137  Stage out:1  Finished in previous run:2898  Finished successfully:822
+Progress:  time: Sat, 17 Nov 2012 00:16:49 +0000  Selecting site:622  Submitting:1  Submitted:268  Active:132  Finished in previous run:2898  Finished successfully:828
+Progress:  time: Sat, 17 Nov 2012 00:16:51 +0000  Selecting site:623  Submitted:275  Active:125  Stage out:1  Finished in previous run:2898  Finished successfully:834
+Progress:  time: Sat, 17 Nov 2012 00:16:52 +0000  Selecting site:623  Submitted:280  Active:120  Stage out:1  Finished in previous run:2898  Finished successfully:839
+Progress:  time: Sat, 17 Nov 2012 00:16:53 +0000  Selecting site:623  Submitted:288  Active:112  Stage out:1  Finished in previous run:2898  Finished successfully:847
+Progress:  time: Sat, 17 Nov 2012 00:16:54 +0000  Selecting site:623  Submitted:300  Active:100  Stage out:1  Finished in previous run:2898  Finished successfully:859
+Progress:  time: Sat, 17 Nov 2012 00:16:55 +0000  Selecting site:623  Submitted:306  Active:94  Stage out:1  Finished in previous run:2898  Finished successfully:865
+Progress:  time: Sat, 17 Nov 2012 00:16:57 +0000  Selecting site:623  Submitted:308  Active:92  Stage out:1  Finished in previous run:2898  Finished successfully:867
+Progress:  time: Sat, 17 Nov 2012 00:16:59 +0000  Selecting site:623  Submitted:315  Active:86  Finished in previous run:2898  Finished successfully:874
+Progress:  time: Sat, 17 Nov 2012 00:17:00 +0000  Selecting site:623  Submitted:318  Active:82  Stage out:1  Finished in previous run:2898  Finished successfully:877
+Progress:  time: Sat, 17 Nov 2012 00:17:01 +0000  Selecting site:623  Submitted:321  Active:79  Stage out:1  Finished in previous run:2898  Finished successfully:880
+Progress:  time: Sat, 17 Nov 2012 00:17:02 +0000  Selecting site:623  Submitted:326  Active:74  Stage out:1  Finished in previous run:2898  Finished successfully:885
+Progress:  time: Sat, 17 Nov 2012 00:17:03 +0000  Selecting site:622  Submitting:1  Submitted:328  Active:72  Finished in previous run:2898  Finished successfully:888
+Progress:  time: Sat, 17 Nov 2012 00:17:04 +0000  Selecting site:623  Submitted:333  Active:67  Stage out:1  Finished in previous run:2898  Finished successfully:892
+Progress:  time: Sat, 17 Nov 2012 00:17:06 +0000  Selecting site:623  Submitted:338  Active:62  Stage out:1  Finished in previous run:2898  Finished successfully:897
+Progress:  time: Sat, 17 Nov 2012 00:17:07 +0000  Selecting site:623  Submitted:345  Active:55  Stage out:1  Finished in previous run:2898  Finished successfully:904
+Progress:  time: Sat, 17 Nov 2012 00:17:08 +0000  Selecting site:623  Submitted:347  Active:53  Stage out:1  Finished in previous run:2898  Finished successfully:906
+Progress:  time: Sat, 17 Nov 2012 00:17:09 +0000  Selecting site:623  Submitted:350  Active:50  Stage out:1  Finished in previous run:2898  Finished successfully:909
+Progress:  time: Sat, 17 Nov 2012 00:17:10 +0000  Selecting site:623  Submitted:354  Active:46  Stage out:1  Finished in previous run:2898  Finished successfully:913
+Progress:  time: Sat, 17 Nov 2012 00:17:11 +0000  Selecting site:623  Submitted:359  Active:41  Stage out:1  Finished in previous run:2898  Finished successfully:918
+Progress:  time: Sat, 17 Nov 2012 00:17:13 +0000  Selecting site:623  Submitted:362  Active:38  Stage out:1  Finished in previous run:2898  Finished successfully:921
+Progress:  time: Sat, 17 Nov 2012 00:17:14 +0000  Selecting site:623  Submitted:367  Active:33  Stage out:1  Finished in previous run:2898  Finished successfully:926
+Progress:  time: Sat, 17 Nov 2012 00:17:15 +0000  Selecting site:623  Submitted:370  Active:30  Stage out:1  Finished in previous run:2898  Finished successfully:929
+Progress:  time: Sat, 17 Nov 2012 00:17:16 +0000  Selecting site:623  Submitted:373  Active:27  Stage out:1  Finished in previous run:2898  Finished successfully:932
+Progress:  time: Sat, 17 Nov 2012 00:17:18 +0000  Selecting site:623  Submitted:374  Active:26  Stage out:1  Finished in previous run:2898  Finished successfully:933
+Progress:  time: Sat, 17 Nov 2012 00:17:19 +0000  Selecting site:623  Submitted:376  Active:24  Stage out:1  Finished in previous run:2898  Finished successfully:935
+Progress:  time: Sat, 17 Nov 2012 00:17:21 +0000  Selecting site:623  Submitted:381  Active:19  Stage out:1  Finished in previous run:2898  Finished successfully:940
+Progress:  time: Sat, 17 Nov 2012 00:17:22 +0000  Selecting site:623  Submitted:385  Active:15  Stage out:1  Finished in previous run:2898  Finished successfully:944
+Progress:  time: Sat, 17 Nov 2012 00:17:24 +0000  Selecting site:623  Submitted:388  Active:12  Stage out:1  Finished in previous run:2898  Finished successfully:947
+Progress:  time: Sat, 17 Nov 2012 00:17:26 +0000  Selecting site:623  Submitted:391  Active:9  Stage out:1  Finished in previous run:2898  Finished successfully:950
+Progress:  time: Sat, 17 Nov 2012 00:17:28 +0000  Selecting site:623  Submitted:394  Active:6  Stage out:1  Finished in previous run:2898  Finished successfully:953
+Progress:  time: Sat, 17 Nov 2012 00:17:32 +0000  Selecting site:623  Submitted:395  Active:5  Stage out:1  Finished in previous run:2898  Finished successfully:954
+Progress:  time: Sat, 17 Nov 2012 00:17:33 +0000  Selecting site:623  Submitted:397  Active:3  Stage out:1  Finished in previous run:2898  Finished successfully:956
+Progress:  time: Sat, 17 Nov 2012 00:17:43 +0000  Selecting site:623  Submitted:398  Active:2  Stage out:1  Finished in previous run:2898  Finished successfully:957
+Progress:  time: Sat, 17 Nov 2012 00:17:46 +0000  Selecting site:623  Submitted:399  Active:1  Stage out:1  Finished in previous run:2898  Finished successfully:958
+Progress:  time: Sat, 17 Nov 2012 00:17:56 +0000  Selecting site:623  Submitted:400  Stage out:1  Finished in previous run:2898  Finished successfully:959
+Progress:  time: Sat, 17 Nov 2012 00:17:59 +0000  Selecting site:623  Submitted:401  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:18:29 +0000  Selecting site:623  Submitted:401  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:18:59 +0000  Selecting site:623  Submitted:401  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:13 +0000  Selecting site:623  Stage in:1  Submitted:400  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:15 +0000  Selecting site:623  Stage in:1  Submitted:388  Active:12  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:17 +0000  Selecting site:623  Stage in:1  Submitted:364  Active:36  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:22 +0000  Selecting site:623  Stage in:1  Submitted:352  Active:48  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:23 +0000  Selecting site:623  Stage in:1  Submitted:328  Active:72  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:24 +0000  Selecting site:623  Stage in:1  Submitted:304  Active:96  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:25 +0000  Selecting site:623  Stage in:1  Submitted:292  Active:108  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:26 +0000  Selecting site:623  Stage in:1  Submitted:268  Active:132  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:28 +0000  Selecting site:623  Stage in:6  Submitted:245  Active:150  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:29 +0000  Selecting site:623  Stage in:1  Submitted:232  Active:168  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:34 +0000  Selecting site:623  Stage in:1  Submitted:220  Active:180  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:35 +0000  Selecting site:623  Stage in:1  Submitted:208  Active:192  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:45 +0000  Selecting site:623  Stage in:1  Submitted:196  Active:204  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:48 +0000  Selecting site:623  Stage in:1  Submitted:184  Active:216  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:19:58 +0000  Selecting site:623  Stage in:1  Submitted:172  Active:228  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:20:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:20:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:21:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:21:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:22:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:22:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:23:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:23:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:24:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:24:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:25:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:25:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:26:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:26:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:27:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:27:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:28:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:28:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:29:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:29:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:30:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:30:59 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:31:23 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:960
+Progress:  time: Sat, 17 Nov 2012 00:31:25 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:961
+Progress:  time: Sat, 17 Nov 2012 00:31:29 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:963
+Progress:  time: Sat, 17 Nov 2012 00:31:30 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:964
+Progress:  time: Sat, 17 Nov 2012 00:31:31 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:971
+Progress:  time: Sat, 17 Nov 2012 00:31:32 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:974
+Progress:  time: Sat, 17 Nov 2012 00:31:33 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:977
+Progress:  time: Sat, 17 Nov 2012 00:31:34 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:983
+Progress:  time: Sat, 17 Nov 2012 00:31:35 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:989
+Progress:  time: Sat, 17 Nov 2012 00:31:36 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1000
+Progress:  time: Sat, 17 Nov 2012 00:31:37 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1008
+Progress:  time: Sat, 17 Nov 2012 00:31:39 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1019
+Progress:  time: Sat, 17 Nov 2012 00:31:40 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1030
+Progress:  time: Sat, 17 Nov 2012 00:31:41 +0000  Selecting site:623  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1044
+Progress:  time: Sat, 17 Nov 2012 00:31:42 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1051
+Progress:  time: Sat, 17 Nov 2012 00:31:43 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1061
+Progress:  time: Sat, 17 Nov 2012 00:31:44 +0000  Selecting site:623  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1073
+Progress:  time: Sat, 17 Nov 2012 00:31:45 +0000  Selecting site:616  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1085
+Progress:  time: Sat, 17 Nov 2012 00:31:46 +0000  Selecting site:610  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1091
+Progress:  time: Sat, 17 Nov 2012 00:31:47 +0000  Selecting site:601  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1100
+Progress:  time: Sat, 17 Nov 2012 00:31:48 +0000  Selecting site:592  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1109
+Progress:  time: Sat, 17 Nov 2012 00:31:50 +0000  Selecting site:587  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1114
+Progress:  time: Sat, 17 Nov 2012 00:31:51 +0000  Selecting site:583  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1118
+Progress:  time: Sat, 17 Nov 2012 00:31:52 +0000  Selecting site:576  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1125
+Progress:  time: Sat, 17 Nov 2012 00:31:53 +0000  Selecting site:571  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1130
+Progress:  time: Sat, 17 Nov 2012 00:31:54 +0000  Selecting site:566  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1135
+Progress:  time: Sat, 17 Nov 2012 00:31:55 +0000  Selecting site:563  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1138
+Progress:  time: Sat, 17 Nov 2012 00:31:56 +0000  Selecting site:559  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1142
+Progress:  time: Sat, 17 Nov 2012 00:31:58 +0000  Selecting site:554  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1147
+Progress:  time: Sat, 17 Nov 2012 00:31:59 +0000  Selecting site:551  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1150
+Progress:  time: Sat, 17 Nov 2012 00:32:00 +0000  Selecting site:544  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1157
+Progress:  time: Sat, 17 Nov 2012 00:32:02 +0000  Selecting site:541  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1160
+Progress:  time: Sat, 17 Nov 2012 00:32:03 +0000  Selecting site:537  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1164
+Progress:  time: Sat, 17 Nov 2012 00:32:04 +0000  Selecting site:533  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1168
+Progress:  time: Sat, 17 Nov 2012 00:32:06 +0000  Selecting site:531  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1170
+Progress:  time: Sat, 17 Nov 2012 00:32:07 +0000  Selecting site:528  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1173
+Progress:  time: Sat, 17 Nov 2012 00:32:09 +0000  Selecting site:526  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1175
+Progress:  time: Sat, 17 Nov 2012 00:32:10 +0000  Selecting site:523  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1178
+Progress:  time: Sat, 17 Nov 2012 00:32:12 +0000  Selecting site:521  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1180
+Progress:  time: Sat, 17 Nov 2012 00:32:13 +0000  Selecting site:517  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1184
+Progress:  time: Sat, 17 Nov 2012 00:32:15 +0000  Selecting site:516  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1185
+Progress:  time: Sat, 17 Nov 2012 00:32:17 +0000  Selecting site:514  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1187
+Progress:  time: Sat, 17 Nov 2012 00:32:19 +0000  Selecting site:512  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1189
+Progress:  time: Sat, 17 Nov 2012 00:32:20 +0000  Selecting site:510  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1191
+Progress:  time: Sat, 17 Nov 2012 00:32:24 +0000  Selecting site:508  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1193
+Progress:  time: Sat, 17 Nov 2012 00:32:26 +0000  Selecting site:506  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1195
+Progress:  time: Sat, 17 Nov 2012 00:32:29 +0000  Selecting site:504  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1197
+Progress:  time: Sat, 17 Nov 2012 00:32:33 +0000  Selecting site:503  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1198
+Progress:  time: Sat, 17 Nov 2012 00:32:49 +0000  Selecting site:502  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1199
+Progress:  time: Sat, 17 Nov 2012 00:32:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:33:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:33:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:34:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:34:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:35:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:35:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:36:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:36:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:37:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:37:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:38:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:38:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:39:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:39:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:40:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:40:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:41:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:41:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:42:29 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:42:59 +0000  Selecting site:501  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:43:01 +0000  Selecting site:501  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1200
+Progress:  time: Sat, 17 Nov 2012 00:43:17 +0000  Selecting site:500  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1201
+Progress:  time: Sat, 17 Nov 2012 00:43:18 +0000  Selecting site:499  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1202
+Progress:  time: Sat, 17 Nov 2012 00:43:20 +0000  Selecting site:498  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1203
+Progress:  time: Sat, 17 Nov 2012 00:43:21 +0000  Selecting site:496  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1205
+Progress:  time: Sat, 17 Nov 2012 00:43:24 +0000  Selecting site:491  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1210
+Progress:  time: Sat, 17 Nov 2012 00:43:25 +0000  Selecting site:487  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1214
+Progress:  time: Sat, 17 Nov 2012 00:43:27 +0000  Selecting site:482  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1219
+Progress:  time: Sat, 17 Nov 2012 00:43:28 +0000  Selecting site:480  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1221
+Progress:  time: Sat, 17 Nov 2012 00:43:29 +0000  Selecting site:476  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1225
+Progress:  time: Sat, 17 Nov 2012 00:43:30 +0000  Selecting site:474  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1227
+Progress:  time: Sat, 17 Nov 2012 00:43:32 +0000  Selecting site:470  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1231
+Progress:  time: Sat, 17 Nov 2012 00:43:33 +0000  Selecting site:465  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1236
+Progress:  time: Sat, 17 Nov 2012 00:43:34 +0000  Selecting site:459  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1242
+Progress:  time: Sat, 17 Nov 2012 00:43:35 +0000  Selecting site:455  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1246
+Progress:  time: Sat, 17 Nov 2012 00:43:37 +0000  Selecting site:451  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1250
+Progress:  time: Sat, 17 Nov 2012 00:43:38 +0000  Selecting site:445  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1256
+Progress:  time: Sat, 17 Nov 2012 00:43:39 +0000  Selecting site:443  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1258
+Progress:  time: Sat, 17 Nov 2012 00:43:40 +0000  Selecting site:437  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1264
+Progress:  time: Sat, 17 Nov 2012 00:43:41 +0000  Selecting site:431  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1270
+Progress:  time: Sat, 17 Nov 2012 00:43:43 +0000  Selecting site:426  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1275
+Progress:  time: Sat, 17 Nov 2012 00:43:45 +0000  Selecting site:420  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1281
+Progress:  time: Sat, 17 Nov 2012 00:43:46 +0000  Selecting site:416  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1285
+Progress:  time: Sat, 17 Nov 2012 00:43:47 +0000  Selecting site:408  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1293
+Progress:  time: Sat, 17 Nov 2012 00:43:48 +0000  Selecting site:396  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1305
+Progress:  time: Sat, 17 Nov 2012 00:43:49 +0000  Selecting site:383  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1318
+Progress:  time: Sat, 17 Nov 2012 00:43:50 +0000  Selecting site:373  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1328
+Progress:  time: Sat, 17 Nov 2012 00:43:52 +0000  Selecting site:364  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1337
+Progress:  time: Sat, 17 Nov 2012 00:43:53 +0000  Selecting site:354  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1347
+Progress:  time: Sat, 17 Nov 2012 00:43:54 +0000  Selecting site:348  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1353
+Progress:  time: Sat, 17 Nov 2012 00:43:55 +0000  Selecting site:344  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1357
+Progress:  time: Sat, 17 Nov 2012 00:43:56 +0000  Selecting site:338  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1363
+Progress:  time: Sat, 17 Nov 2012 00:43:57 +0000  Selecting site:333  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1368
+Progress:  time: Sat, 17 Nov 2012 00:43:58 +0000  Selecting site:330  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1371
+Progress:  time: Sat, 17 Nov 2012 00:44:00 +0000  Selecting site:325  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1376
+Progress:  time: Sat, 17 Nov 2012 00:44:01 +0000  Selecting site:321  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1380
+Progress:  time: Sat, 17 Nov 2012 00:44:02 +0000  Selecting site:317  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1384
+Progress:  time: Sat, 17 Nov 2012 00:44:03 +0000  Selecting site:314  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1387
+Progress:  time: Sat, 17 Nov 2012 00:44:05 +0000  Selecting site:310  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1391
+Progress:  time: Sat, 17 Nov 2012 00:44:06 +0000  Selecting site:306  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1395
+Progress:  time: Sat, 17 Nov 2012 00:44:07 +0000  Selecting site:303  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1398
+Progress:  time: Sat, 17 Nov 2012 00:44:10 +0000  Selecting site:299  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1402
+Progress:  time: Sat, 17 Nov 2012 00:44:11 +0000  Selecting site:297  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1404
+Progress:  time: Sat, 17 Nov 2012 00:44:12 +0000  Selecting site:294  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1407
+Progress:  time: Sat, 17 Nov 2012 00:44:14 +0000  Selecting site:293  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1408
+Progress:  time: Sat, 17 Nov 2012 00:44:15 +0000  Selecting site:290  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1411
+Progress:  time: Sat, 17 Nov 2012 00:44:17 +0000  Selecting site:285  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1416
+Progress:  time: Sat, 17 Nov 2012 00:44:18 +0000  Selecting site:284  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1417
+Progress:  time: Sat, 17 Nov 2012 00:44:19 +0000  Selecting site:281  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1420
+Progress:  time: Sat, 17 Nov 2012 00:44:22 +0000  Selecting site:278  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1423
+Progress:  time: Sat, 17 Nov 2012 00:44:23 +0000  Selecting site:277  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1424
+Progress:  time: Sat, 17 Nov 2012 00:44:26 +0000  Selecting site:273  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1428
+Progress:  time: Sat, 17 Nov 2012 00:44:29 +0000  Selecting site:271  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1430
+Progress:  time: Sat, 17 Nov 2012 00:44:30 +0000  Selecting site:269  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1432
+Progress:  time: Sat, 17 Nov 2012 00:44:34 +0000  Selecting site:266  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1435
+Progress:  time: Sat, 17 Nov 2012 00:44:35 +0000  Selecting site:264  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1437
+Progress:  time: Sat, 17 Nov 2012 00:44:39 +0000  Selecting site:263  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1438
+Progress:  time: Sat, 17 Nov 2012 00:44:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:45:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:45:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:46:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:46:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:47:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:47:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:48:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:48:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:49:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:49:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:50:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:50:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:51:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:51:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:52:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:52:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:53:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:53:59 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:54:29 +0000  Selecting site:261  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:54:31 +0000  Selecting site:261  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1440
+Progress:  time: Sat, 17 Nov 2012 00:54:46 +0000  Selecting site:260  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1441
+Progress:  time: Sat, 17 Nov 2012 00:54:49 +0000  Selecting site:259  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1442
+Progress:  time: Sat, 17 Nov 2012 00:54:53 +0000  Selecting site:257  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1444
+Progress:  time: Sat, 17 Nov 2012 00:54:55 +0000  Selecting site:255  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1446
+Progress:  time: Sat, 17 Nov 2012 00:54:56 +0000  Selecting site:253  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1448
+Progress:  time: Sat, 17 Nov 2012 00:54:59 +0000  Selecting site:252  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1449
+Progress:  time: Sat, 17 Nov 2012 00:55:00 +0000  Selecting site:250  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1451
+Progress:  time: Sat, 17 Nov 2012 00:55:02 +0000  Selecting site:249  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1452
+Progress:  time: Sat, 17 Nov 2012 00:55:03 +0000  Selecting site:246  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1455
+Progress:  time: Sat, 17 Nov 2012 00:55:05 +0000  Selecting site:243  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1458
+Progress:  time: Sat, 17 Nov 2012 00:55:06 +0000  Selecting site:242  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1459
+Progress:  time: Sat, 17 Nov 2012 00:55:07 +0000  Selecting site:241  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1460
+Progress:  time: Sat, 17 Nov 2012 00:55:08 +0000  Selecting site:238  Stage in:1  Submitted:161  Active:239  Finished in previous run:2898  Finished successfully:1463
+Progress:  time: Sat, 17 Nov 2012 00:55:10 +0000  Selecting site:236  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1465
+Progress:  time: Sat, 17 Nov 2012 00:55:11 +0000  Selecting site:234  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1467
+Progress:  time: Sat, 17 Nov 2012 00:55:12 +0000  Selecting site:230  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1471
+Progress:  time: Sat, 17 Nov 2012 00:55:13 +0000  Selecting site:228  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1473
+Progress:  time: Sat, 17 Nov 2012 00:55:14 +0000  Selecting site:223  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1478
+Progress:  time: Sat, 17 Nov 2012 00:55:15 +0000  Selecting site:221  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1480
+Progress:  time: Sat, 17 Nov 2012 00:55:17 +0000  Selecting site:213  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1488
+Progress:  time: Sat, 17 Nov 2012 00:55:18 +0000  Selecting site:206  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1495
+Progress:  time: Sat, 17 Nov 2012 00:55:20 +0000  Selecting site:202  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1499
+Progress:  time: Sat, 17 Nov 2012 00:55:21 +0000  Selecting site:201  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1500
+Progress:  time: Sat, 17 Nov 2012 00:55:22 +0000  Selecting site:194  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1507
+Progress:  time: Sat, 17 Nov 2012 00:55:23 +0000  Selecting site:186  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1515
+Progress:  time: Sat, 17 Nov 2012 00:55:25 +0000  Selecting site:180  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1521
+Progress:  time: Sat, 17 Nov 2012 00:55:26 +0000  Selecting site:176  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1525
+Progress:  time: Sat, 17 Nov 2012 00:55:27 +0000  Selecting site:172  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1529
+Progress:  time: Sat, 17 Nov 2012 00:55:29 +0000  Selecting site:163  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1538
+Progress:  time: Sat, 17 Nov 2012 00:55:30 +0000  Selecting site:156  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1545
+Progress:  time: Sat, 17 Nov 2012 00:55:31 +0000  Selecting site:150  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1551
+Progress:  time: Sat, 17 Nov 2012 00:55:33 +0000  Selecting site:146  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1555
+Progress:  time: Sat, 17 Nov 2012 00:55:34 +0000  Selecting site:142  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1559
+Progress:  time: Sat, 17 Nov 2012 00:55:35 +0000  Selecting site:136  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1565
+Progress:  time: Sat, 17 Nov 2012 00:55:37 +0000  Selecting site:125  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1576
+Progress:  time: Sat, 17 Nov 2012 00:55:38 +0000  Selecting site:123  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1578
+Progress:  time: Sat, 17 Nov 2012 00:55:39 +0000  Selecting site:117  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1584
+Progress:  time: Sat, 17 Nov 2012 00:55:40 +0000  Selecting site:115  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1586
+Progress:  time: Sat, 17 Nov 2012 00:55:41 +0000  Selecting site:110  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1591
+Progress:  time: Sat, 17 Nov 2012 00:55:42 +0000  Selecting site:106  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1595
+Progress:  time: Sat, 17 Nov 2012 00:55:43 +0000  Selecting site:101  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1600
+Progress:  time: Sat, 17 Nov 2012 00:55:45 +0000  Selecting site:95  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1606
+Progress:  time: Sat, 17 Nov 2012 00:55:46 +0000  Selecting site:89  Submitting:1  Submitted:160  Active:240  Finished in previous run:2898  Finished successfully:1612
+Progress:  time: Sat, 17 Nov 2012 00:55:47 +0000  Selecting site:87  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1614
+Progress:  time: Sat, 17 Nov 2012 00:55:48 +0000  Selecting site:85  Submitted:160  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1617
+Progress:  time: Sat, 17 Nov 2012 00:55:50 +0000  Selecting site:75  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1626
+Progress:  time: Sat, 17 Nov 2012 00:55:51 +0000  Selecting site:68  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1633
+Progress:  time: Sat, 17 Nov 2012 00:55:52 +0000  Selecting site:64  Submitted:160  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1638
+Progress:  time: Sat, 17 Nov 2012 00:55:53 +0000  Selecting site:59  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1642
+Progress:  time: Sat, 17 Nov 2012 00:55:55 +0000  Selecting site:57  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1644
+Progress:  time: Sat, 17 Nov 2012 00:55:56 +0000  Selecting site:55  Submitted:160  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1647
+Progress:  time: Sat, 17 Nov 2012 00:55:57 +0000  Selecting site:51  Submitted:160  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1651
+Progress:  time: Sat, 17 Nov 2012 00:55:59 +0000  Selecting site:47  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1654
+Progress:  time: Sat, 17 Nov 2012 00:56:00 +0000  Selecting site:47  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1654
+Progress:  time: Sat, 17 Nov 2012 00:56:01 +0000  Selecting site:44  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1657
+Progress:  time: Sat, 17 Nov 2012 00:56:03 +0000  Selecting site:41  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1660
+Progress:  time: Sat, 17 Nov 2012 00:56:05 +0000  Selecting site:40  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1661
+Progress:  time: Sat, 17 Nov 2012 00:56:07 +0000  Selecting site:37  Submitting:1  Submitted:160  Active:240  Finished in previous run:2898  Finished successfully:1664
+Progress:  time: Sat, 17 Nov 2012 00:56:08 +0000  Selecting site:36  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1665
+Progress:  time: Sat, 17 Nov 2012 00:56:09 +0000  Selecting site:35  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1666
+Progress:  time: Sat, 17 Nov 2012 00:56:11 +0000  Selecting site:34  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1667
+Progress:  time: Sat, 17 Nov 2012 00:56:14 +0000  Selecting site:32  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1669
+Progress:  time: Sat, 17 Nov 2012 00:56:16 +0000  Selecting site:30  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1671
+Progress:  time: Sat, 17 Nov 2012 00:56:17 +0000  Selecting site:29  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1672
+Progress:  time: Sat, 17 Nov 2012 00:56:20 +0000  Selecting site:28  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1673
+Progress:  time: Sat, 17 Nov 2012 00:56:22 +0000  Selecting site:27  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1674
+Progress:  time: Sat, 17 Nov 2012 00:56:24 +0000  Selecting site:25  Submitting:1  Submitted:160  Active:240  Finished in previous run:2898  Finished successfully:1676
+Progress:  time: Sat, 17 Nov 2012 00:56:25 +0000  Selecting site:25  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1676
+Progress:  time: Sat, 17 Nov 2012 00:56:28 +0000  Selecting site:24  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1677
+Progress:  time: Sat, 17 Nov 2012 00:56:30 +0000  Selecting site:23  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1678
+Progress:  time: Sat, 17 Nov 2012 00:56:31 +0000  Selecting site:22  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1679
+Progress:  time: Sat, 17 Nov 2012 00:56:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 00:57:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 00:57:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 00:58:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 00:58:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 00:59:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 00:59:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:00:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:00:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:01:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:01:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:02:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:02:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:03:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:03:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:04:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:04:59 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:05:29 +0000  Selecting site:21  Submitted:161  Active:240  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:05:46 +0000  Selecting site:21  Submitted:161  Active:239  Stage out:1  Finished in previous run:2898  Finished successfully:1680
+Progress:  time: Sat, 17 Nov 2012 01:05:59 +0000  Selecting site:20  Submitted:162  Active:239  Finished in previous run:2898  Finished successfully:1681
+Progress:  time: Sat, 17 Nov 2012 01:06:13 +0000  Selecting site:20  Submitted:162  Active:238  Stage out:1  Finished in previous run:2898  Finished successfully:1681
+Progress:  time: Sat, 17 Nov 2012 01:06:15 +0000  Selecting site:19  Submitted:163  Active:237  Stage out:1  Finished in previous run:2898  Finished successfully:1682
+Progress:  time: Sat, 17 Nov 2012 01:06:17 +0000  Selecting site:17  Submitted:165  Active:235  Stage out:1  Finished in previous run:2898  Finished successfully:1684
+Progress:  time: Sat, 17 Nov 2012 01:06:19 +0000  Selecting site:16  Submitted:166  Active:234  Stage out:1  Finished in previous run:2898  Finished successfully:1685
+Progress:  time: Sat, 17 Nov 2012 01:06:22 +0000  Selecting site:15  Submitted:167  Active:233  Stage out:1  Finished in previous run:2898  Finished successfully:1686
+Progress:  time: Sat, 17 Nov 2012 01:06:25 +0000  Selecting site:13  Submitted:169  Active:231  Stage out:1  Finished in previous run:2898  Finished successfully:1688
+Progress:  time: Sat, 17 Nov 2012 01:06:26 +0000  Selecting site:11  Submitted:171  Active:229  Stage out:1  Finished in previous run:2898  Finished successfully:1690
+Progress:  time: Sat, 17 Nov 2012 01:06:27 +0000  Selecting site:10  Submitted:172  Active:228  Stage out:1  Finished in previous run:2898  Finished successfully:1691
+Progress:  time: Sat, 17 Nov 2012 01:06:28 +0000  Selecting site:8  Submitted:174  Active:226  Stage out:1  Finished in previous run:2898  Finished successfully:1693
+Progress:  time: Sat, 17 Nov 2012 01:06:30 +0000  Selecting site:7  Submitted:175  Active:225  Stage out:1  Finished in previous run:2898  Finished successfully:1694
+Progress:  time: Sat, 17 Nov 2012 01:06:32 +0000  Selecting site:5  Submitting:1  Submitted:176  Active:224  Finished in previous run:2898  Finished successfully:1696
+Progress:  time: Sat, 17 Nov 2012 01:06:33 +0000  Selecting site:5  Submitted:177  Active:223  Stage out:1  Finished in previous run:2898  Finished successfully:1696
+Progress:  time: Sat, 17 Nov 2012 01:06:34 +0000  Selecting site:4  Submitted:178  Active:222  Stage out:1  Finished in previous run:2898  Finished successfully:1697
+Progress:  time: Sat, 17 Nov 2012 01:06:35 +0000  Selecting site:2  Submitted:180  Active:220  Stage out:1  Finished in previous run:2898  Finished successfully:1699
+Progress:  time: Sat, 17 Nov 2012 01:06:37 +0000  Submitted:182  Active:216  Stage out:1  Finished in previous run:2898  Finished successfully:1703
+Progress:  time: Sat, 17 Nov 2012 01:06:38 +0000  Submitted:182  Active:215  Stage out:1  Finished in previous run:2898  Finished successfully:1704
+Progress:  time: Sat, 17 Nov 2012 01:06:40 +0000  Submitted:182  Active:212  Stage out:1  Finished in previous run:2898  Finished successfully:1707
+Progress:  time: Sat, 17 Nov 2012 01:06:41 +0000  Submitted:182  Active:210  Stage out:1  Finished in previous run:2898  Finished successfully:1709
+Progress:  time: Sat, 17 Nov 2012 01:06:42 +0000  Submitted:182  Active:206  Stage out:1  Finished in previous run:2898  Finished successfully:1713
+Progress:  time: Sat, 17 Nov 2012 01:06:43 +0000  Submitted:182  Active:201  Stage out:1  Finished in previous run:2898  Finished successfully:1718
+Progress:  time: Sat, 17 Nov 2012 01:06:45 +0000  Submitted:182  Active:199  Stage out:1  Finished in previous run:2898  Finished successfully:1720
+Progress:  time: Sat, 17 Nov 2012 01:06:46 +0000  Submitted:182  Active:197  Stage out:1  Finished in previous run:2898  Finished successfully:1722
+Progress:  time: Sat, 17 Nov 2012 01:06:47 +0000  Submitted:182  Active:192  Stage out:1  Finished in previous run:2898  Finished successfully:1727
+Progress:  time: Sat, 17 Nov 2012 01:06:48 +0000  Submitted:182  Active:186  Stage out:1  Finished in previous run:2898  Finished successfully:1733
+Progress:  time: Sat, 17 Nov 2012 01:06:49 +0000  Submitted:182  Active:182  Stage out:1  Finished in previous run:2898  Finished successfully:1737
+Progress:  time: Sat, 17 Nov 2012 01:06:50 +0000  Submitted:182  Active:178  Stage out:1  Finished in previous run:2898  Finished successfully:1741
+Progress:  time: Sat, 17 Nov 2012 01:06:51 +0000  Submitted:182  Active:174  Stage out:1  Finished in previous run:2898  Finished successfully:1745
+Progress:  time: Sat, 17 Nov 2012 01:06:52 +0000  Submitted:182  Active:173  Stage out:1  Finished in previous run:2898  Finished successfully:1746
+Progress:  time: Sat, 17 Nov 2012 01:06:54 +0000  Submitted:182  Active:170  Stage out:1  Finished in previous run:2898  Finished successfully:1749
+Progress:  time: Sat, 17 Nov 2012 01:06:55 +0000  Submitted:182  Active:167  Stage out:1  Finished in previous run:2898  Finished successfully:1752
+Progress:  time: Sat, 17 Nov 2012 01:06:56 +0000  Submitted:182  Active:163  Stage out:1  Finished in previous run:2898  Finished successfully:1756
+Progress:  time: Sat, 17 Nov 2012 01:06:58 +0000  Submitted:182  Active:155  Stage out:1  Finished in previous run:2898  Finished successfully:1764
+Progress:  time: Sat, 17 Nov 2012 01:06:59 +0000  Submitted:182  Active:152  Finished in previous run:2898  Finished successfully:1768
+Progress:  time: Sat, 17 Nov 2012 01:07:00 +0000  Submitted:182  Active:148  Stage out:1  Finished in previous run:2898  Finished successfully:1771
+Progress:  time: Sat, 17 Nov 2012 01:07:01 +0000  Submitted:182  Active:145  Stage out:1  Finished in previous run:2898  Finished successfully:1774
+Progress:  time: Sat, 17 Nov 2012 01:07:02 +0000  Submitted:182  Active:139  Stage out:1  Finished in previous run:2898  Finished successfully:1780
+Progress:  time: Sat, 17 Nov 2012 01:07:04 +0000  Submitted:182  Active:133  Stage out:1  Finished in previous run:2898  Finished successfully:1786
+Progress:  time: Sat, 17 Nov 2012 01:07:05 +0000  Submitted:182  Active:129  Stage out:1  Finished in previous run:2898  Finished successfully:1790
+Progress:  time: Sat, 17 Nov 2012 01:07:06 +0000  Submitted:182  Active:127  Stage out:1  Finished in previous run:2898  Finished successfully:1792
+Progress:  time: Sat, 17 Nov 2012 01:07:07 +0000  Submitted:182  Active:116  Stage out:1  Finished in previous run:2898  Finished successfully:1803
+Progress:  time: Sat, 17 Nov 2012 01:07:09 +0000  Submitted:182  Active:110  Stage out:1  Finished in previous run:2898  Finished successfully:1809
+Progress:  time: Sat, 17 Nov 2012 01:07:10 +0000  Submitted:182  Active:105  Stage out:1  Finished in previous run:2898  Finished successfully:1814
+Progress:  time: Sat, 17 Nov 2012 01:07:12 +0000  Submitted:182  Active:96  Stage out:1  Finished in previous run:2898  Finished successfully:1823
+Progress:  time: Sat, 17 Nov 2012 01:07:13 +0000  Submitted:182  Active:93  Stage out:1  Finished in previous run:2898  Finished successfully:1826
+Progress:  time: Sat, 17 Nov 2012 01:07:15 +0000  Submitted:182  Active:84  Stage out:1  Finished in previous run:2898  Finished successfully:1835
+Progress:  time: Sat, 17 Nov 2012 01:07:16 +0000  Submitted:182  Active:77  Stage out:1  Finished in previous run:2898  Finished successfully:1842
+Progress:  time: Sat, 17 Nov 2012 01:07:17 +0000  Submitted:182  Active:73  Stage out:1  Finished in previous run:2898  Finished successfully:1846
+Progress:  time: Sat, 17 Nov 2012 01:07:18 +0000  Submitted:182  Active:67  Stage out:1  Finished in previous run:2898  Finished successfully:1852
+Progress:  time: Sat, 17 Nov 2012 01:07:20 +0000  Submitted:182  Active:62  Stage out:1  Finished in previous run:2898  Finished successfully:1857
+Progress:  time: Sat, 17 Nov 2012 01:07:21 +0000  Submitted:182  Active:57  Stage out:1  Finished in previous run:2898  Finished successfully:1862
+Progress:  time: Sat, 17 Nov 2012 01:07:22 +0000  Submitted:182  Active:55  Stage out:1  Finished in previous run:2898  Finished successfully:1864
+Progress:  time: Sat, 17 Nov 2012 01:07:23 +0000  Submitted:182  Active:50  Stage out:1  Finished in previous run:2898  Finished successfully:1869
+Progress:  time: Sat, 17 Nov 2012 01:07:24 +0000  Submitted:182  Active:49  Stage out:1  Finished in previous run:2898  Finished successfully:1870
+Progress:  time: Sat, 17 Nov 2012 01:07:25 +0000  Submitted:182  Active:47  Stage out:1  Finished in previous run:2898  Finished successfully:1872
+Progress:  time: Sat, 17 Nov 2012 01:07:27 +0000  Submitted:182  Active:42  Stage out:1  Finished in previous run:2898  Finished successfully:1877
+Progress:  time: Sat, 17 Nov 2012 01:07:28 +0000  Submitted:182  Active:37  Stage out:1  Finished in previous run:2898  Finished successfully:1882
+Progress:  time: Sat, 17 Nov 2012 01:07:29 +0000  Submitted:182  Active:33  Stage out:1  Finished in previous run:2898  Finished successfully:1886
+Progress:  time: Sat, 17 Nov 2012 01:07:30 +0000  Submitted:182  Active:31  Stage out:1  Finished in previous run:2898  Finished successfully:1888
+Progress:  time: Sat, 17 Nov 2012 01:07:31 +0000  Submitted:182  Active:26  Stage out:1  Finished in previous run:2898  Finished successfully:1893
+Progress:  time: Sat, 17 Nov 2012 01:07:32 +0000  Submitted:182  Active:24  Stage out:1  Finished in previous run:2898  Finished successfully:1895
+Progress:  time: Sat, 17 Nov 2012 01:07:34 +0000  Submitted:182  Active:22  Stage out:1  Finished in previous run:2898  Finished successfully:1897
+Progress:  time: Sat, 17 Nov 2012 01:07:35 +0000  Submitted:182  Active:19  Stage out:1  Finished in previous run:2898  Finished successfully:1900
+Progress:  time: Sat, 17 Nov 2012 01:07:37 +0000  Submitted:182  Active:16  Stage out:1  Finished in previous run:2898  Finished successfully:1903
+Progress:  time: Sat, 17 Nov 2012 01:07:39 +0000  Submitted:182  Active:13  Stage out:1  Finished in previous run:2898  Finished successfully:1906
+Progress:  time: Sat, 17 Nov 2012 01:07:41 +0000  Submitted:182  Active:12  Stage out:1  Finished in previous run:2898  Finished successfully:1907
+Progress:  time: Sat, 17 Nov 2012 01:07:43 +0000  Submitted:182  Active:10  Stage out:1  Finished in previous run:2898  Finished successfully:1909
+Progress:  time: Sat, 17 Nov 2012 01:07:45 +0000  Submitted:182  Active:8  Stage out:1  Finished in previous run:2898  Finished successfully:1911
+Progress:  time: Sat, 17 Nov 2012 01:07:47 +0000  Submitted:182  Active:6  Stage out:1  Finished in previous run:2898  Finished successfully:1913
+Progress:  time: Sat, 17 Nov 2012 01:07:49 +0000  Submitted:182  Active:5  Stage out:1  Finished in previous run:2898  Finished successfully:1914
+Progress:  time: Sat, 17 Nov 2012 01:07:51 +0000  Submitted:182  Active:4  Stage out:1  Finished in previous run:2898  Finished successfully:1915
+Progress:  time: Sat, 17 Nov 2012 01:07:55 +0000  Submitted:182  Active:2  Stage out:1  Finished in previous run:2898  Finished successfully:1917
+Progress:  time: Sat, 17 Nov 2012 01:07:57 +0000  Submitted:182  Active:1  Stage out:1  Finished in previous run:2898  Finished successfully:1918
+Progress:  time: Sat, 17 Nov 2012 01:07:59 +0000  Submitted:182  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:08:29 +0000  Submitted:182  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:08:59 +0000  Submitted:182  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:23 +0000  Stage in:1  Submitted:181  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:29 +0000  Submitted:158  Active:24  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:35 +0000  Stage in:1  Submitted:157  Active:24  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:36 +0000  Stage in:1  Submitted:133  Active:48  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:39 +0000  Stage in:1  Submitted:109  Active:72  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:42 +0000  Stage in:1  Submitted:85  Active:96  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:45 +0000  Stage in:1  Submitted:73  Active:108  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:51 +0000  Stage in:1  Submitted:61  Active:120  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:54 +0000  Stage in:1  Submitted:49  Active:132  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:09:59 +0000  Submitted:38  Active:144  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:10:00 +0000  Stage in:1  Submitted:37  Active:144  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:10:06 +0000  Stage in:1  Submitted:13  Active:168  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:10:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:10:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:11:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:11:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:12:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:12:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:13:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:13:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:14:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:14:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:15:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:15:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:16:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:16:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:17:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:17:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:18:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:18:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:19:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:19:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:20:29 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:20:59 +0000  Submitted:2  Active:180  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:21:10 +0000  Submitted:2  Active:179  Stage out:1  Finished in previous run:2898  Finished successfully:1920
+Progress:  time: Sat, 17 Nov 2012 01:21:12 +0000  Active:177  Stage out:1  Finished in previous run:2898  Finished successfully:1924
+Progress:  time: Sat, 17 Nov 2012 01:21:14 +0000  Active:174  Stage out:1  Finished in previous run:2898  Finished successfully:1927
+Progress:  time: Sat, 17 Nov 2012 01:21:15 +0000  Active:169  Stage out:1  Finished in previous run:2898  Finished successfully:1932
+Progress:  time: Sat, 17 Nov 2012 01:21:16 +0000  Active:166  Stage out:1  Finished in previous run:2898  Finished successfully:1935
+Progress:  time: Sat, 17 Nov 2012 01:21:17 +0000  Active:163  Stage out:1  Finished in previous run:2898  Finished successfully:1938
+Progress:  time: Sat, 17 Nov 2012 01:21:18 +0000  Active:160  Stage out:1  Finished in previous run:2898  Finished successfully:1941
+Progress:  time: Sat, 17 Nov 2012 01:21:20 +0000  Active:157  Stage out:1  Finished in previous run:2898  Finished successfully:1944
+Progress:  time: Sat, 17 Nov 2012 01:21:21 +0000  Active:154  Stage out:1  Finished in previous run:2898  Finished successfully:1947
+Progress:  time: Sat, 17 Nov 2012 01:21:23 +0000  Active:148  Stage out:1  Finished in previous run:2898  Finished successfully:1953
+Progress:  time: Sat, 17 Nov 2012 01:21:24 +0000  Active:144  Stage out:1  Finished in previous run:2898  Finished successfully:1957
+Progress:  time: Sat, 17 Nov 2012 01:21:26 +0000  Active:143  Stage out:1  Finished in previous run:2898  Finished successfully:1958
+Progress:  time: Sat, 17 Nov 2012 01:21:27 +0000  Active:141  Stage out:1  Finished in previous run:2898  Finished successfully:1960
+Progress:  time: Sat, 17 Nov 2012 01:21:28 +0000  Active:136  Stage out:1  Finished in previous run:2898  Finished successfully:1965
+Progress:  time: Sat, 17 Nov 2012 01:21:29 +0000  Active:126  Stage out:1  Finished in previous run:2898  Finished successfully:1975
+Progress:  time: Sat, 17 Nov 2012 01:21:30 +0000  Active:122  Stage out:1  Finished in previous run:2898  Finished successfully:1979
+Progress:  time: Sat, 17 Nov 2012 01:21:32 +0000  Active:116  Stage out:1  Finished in previous run:2898  Finished successfully:1985
+Progress:  time: Sat, 17 Nov 2012 01:21:33 +0000  Active:112  Stage out:1  Finished in previous run:2898  Finished successfully:1989
+Progress:  time: Sat, 17 Nov 2012 01:21:35 +0000  Active:107  Stage out:1  Finished in previous run:2898  Finished successfully:1994
+Progress:  time: Sat, 17 Nov 2012 01:21:36 +0000  Active:104  Stage out:1  Finished in previous run:2898  Finished successfully:1997
+Progress:  time: Sat, 17 Nov 2012 01:21:37 +0000  Active:97  Stage out:1  Finished in previous run:2898  Finished successfully:2004
+Progress:  time: Sat, 17 Nov 2012 01:21:39 +0000  Active:94  Stage out:1  Finished in previous run:2898  Finished successfully:2007
+Progress:  time: Sat, 17 Nov 2012 01:21:40 +0000  Active:88  Stage out:1  Finished in previous run:2898  Finished successfully:2013
+Progress:  time: Sat, 17 Nov 2012 01:21:42 +0000  Active:84  Stage out:1  Finished in previous run:2898  Finished successfully:2017
+Progress:  time: Sat, 17 Nov 2012 01:21:43 +0000  Active:77  Stage out:1  Finished in previous run:2898  Finished successfully:2024
+Progress:  time: Sat, 17 Nov 2012 01:21:45 +0000  Active:73  Stage out:1  Finished in previous run:2898  Finished successfully:2028
+Progress:  time: Sat, 17 Nov 2012 01:21:46 +0000  Active:71  Stage out:1  Finished in previous run:2898  Finished successfully:2030
+Progress:  time: Sat, 17 Nov 2012 01:21:47 +0000  Active:68  Stage out:1  Finished in previous run:2898  Finished successfully:2033
+Progress:  time: Sat, 17 Nov 2012 01:21:49 +0000  Active:65  Stage out:1  Finished in previous run:2898  Finished successfully:2036
+Progress:  time: Sat, 17 Nov 2012 01:21:50 +0000  Active:56  Stage out:1  Finished in previous run:2898  Finished successfully:2045
+Progress:  time: Sat, 17 Nov 2012 01:21:51 +0000  Active:54  Stage out:1  Finished in previous run:2898  Finished successfully:2047
+Progress:  time: Sat, 17 Nov 2012 01:21:52 +0000  Active:50  Stage out:1  Finished in previous run:2898  Finished successfully:2051
+Progress:  time: Sat, 17 Nov 2012 01:21:53 +0000  Active:48  Stage out:1  Finished in previous run:2898  Finished successfully:2053
+Progress:  time: Sat, 17 Nov 2012 01:21:55 +0000  Active:47  Stage out:1  Finished in previous run:2898  Finished successfully:2054
+Progress:  time: Sat, 17 Nov 2012 01:21:57 +0000  Active:45  Stage out:1  Finished in previous run:2898  Finished successfully:2056
+Progress:  time: Sat, 17 Nov 2012 01:21:58 +0000  Active:42  Stage out:1  Finished in previous run:2898  Finished successfully:2059
+Progress:  time: Sat, 17 Nov 2012 01:22:00 +0000  Active:40  Stage out:1  Finished in previous run:2898  Finished successfully:2061
+Progress:  time: Sat, 17 Nov 2012 01:22:01 +0000  Active:36  Stage out:1  Finished in previous run:2898  Finished successfully:2065
+Progress:  time: Sat, 17 Nov 2012 01:22:03 +0000  Active:35  Stage out:1  Finished in previous run:2898  Finished successfully:2066
+Progress:  time: Sat, 17 Nov 2012 01:22:04 +0000  Active:31  Stage out:1  Finished in previous run:2898  Finished successfully:2070
+Progress:  time: Sat, 17 Nov 2012 01:22:05 +0000  Active:30  Stage out:1  Finished in previous run:2898  Finished successfully:2071
+Progress:  time: Sat, 17 Nov 2012 01:22:06 +0000  Active:26  Stage out:1  Finished in previous run:2898  Finished successfully:2075
+Progress:  time: Sat, 17 Nov 2012 01:22:08 +0000  Active:25  Stage out:1  Finished in previous run:2898  Finished successfully:2076
+Progress:  time: Sat, 17 Nov 2012 01:22:09 +0000  Active:24  Stage out:1  Finished in previous run:2898  Finished successfully:2077
+Progress:  time: Sat, 17 Nov 2012 01:22:10 +0000  Active:22  Stage out:1  Finished in previous run:2898  Finished successfully:2079
+Progress:  time: Sat, 17 Nov 2012 01:22:11 +0000  Active:19  Stage out:1  Finished in previous run:2898  Finished successfully:2082
+Progress:  time: Sat, 17 Nov 2012 01:22:14 +0000  Active:16  Stage out:1  Finished in previous run:2898  Finished successfully:2085
+Progress:  time: Sat, 17 Nov 2012 01:22:16 +0000  Active:15  Stage out:1  Finished in previous run:2898  Finished successfully:2086
+Progress:  time: Sat, 17 Nov 2012 01:22:18 +0000  Active:14  Stage out:1  Finished in previous run:2898  Finished successfully:2087
+Progress:  time: Sat, 17 Nov 2012 01:22:21 +0000  Active:13  Stage out:1  Finished in previous run:2898  Finished successfully:2088
+Progress:  time: Sat, 17 Nov 2012 01:22:23 +0000  Active:10  Stage out:1  Finished in previous run:2898  Finished successfully:2091
+Progress:  time: Sat, 17 Nov 2012 01:22:25 +0000  Active:9  Stage out:1  Finished in previous run:2898  Finished successfully:2092
+Progress:  time: Sat, 17 Nov 2012 01:22:26 +0000  Active:6  Stage out:1  Finished in previous run:2898  Finished successfully:2095
+Progress:  time: Sat, 17 Nov 2012 01:22:29 +0000  Active:6  Finished in previous run:2898  Finished successfully:2096
+Progress:  time: Sat, 17 Nov 2012 01:22:31 +0000  Active:4  Stage out:1  Finished in previous run:2898  Finished successfully:2097
+Progress:  time: Sat, 17 Nov 2012 01:22:34 +0000  Active:3  Stage out:1  Finished in previous run:2898  Finished successfully:2098
+Progress:  time: Sat, 17 Nov 2012 01:22:36 +0000  Active:2  Stage out:1  Finished in previous run:2898  Finished successfully:2099
+Progress:  time: Sat, 17 Nov 2012 01:22:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:23:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:23:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:24:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:24:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:25:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:25:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:26:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:26:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:27:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:27:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:28:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:28:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:29:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:29:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:30:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:30:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:31:29 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:31:59 +0000  Active:2  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:32:22 +0000  Active:1  Stage out:1  Finished in previous run:2898  Finished successfully:2100
+Progress:  time: Sat, 17 Nov 2012 01:32:23 +0000  Stage out:1  Finished in previous run:2898  Finished successfully:2101
+Final status: Sat, 17 Nov 2012 01:32:24 +0000  Finished in previous run:2898  Finished successfully:2102
