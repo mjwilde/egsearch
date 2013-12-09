@@ -1,0 +1,6 @@
+,Alive,Age,Location,Fusion
+SampleName_1,t,100,Pelvis,Pos
+SampleName_2,t,150,Extremity,Pos
+SampleName_3,t,50,Extremity,Unk
+SampleName_4,f,300,Pelvis,Neg
+SampleName_5,f,250,Pelvis,Neg

@@ -1,0 +1,16 @@
+Loading			genes.csv
+training_labels= [1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0]
+Before ranktest, len(data)= 54677
+After ranktest, len(data)= 54675
+Features		54675
+Total combinations	1494650475
+Taking at a time	2
+Number of slices	500000
+Slice number		1
+Iterations per group	2990
+First iteration		2990
+Last iteration		5980
+outFileName		o.csv
+
+Doing combination	0
+Final combination	2990
